@@ -1,0 +1,6 @@
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv01\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv02\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv03\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv04\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv04 object tracking\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\ObjectTracking\x64\Release\ICP_cvico.exe

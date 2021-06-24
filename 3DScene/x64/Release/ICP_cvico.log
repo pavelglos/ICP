@@ -1,0 +1,74 @@
+﻿  GLerror.cpp
+  mesh.cpp
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh.cpp(122,59): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh.cpp(151,95): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh.cpp(190,59): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  mesh_init.cpp
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh_init.cpp(60,15): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh_init.cpp(62,15): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh_init.cpp(109,15): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh_init.cpp(111,23): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh_init.cpp(139,23): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh_init.cpp(141,23): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh_init.cpp(169,23): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\mesh_init.cpp(171,15): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  OBJloader.cpp
+  OpenGL.cpp
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\Globals.h(24,2): warning C4091: 'typedef ': ignored on left of 's_Avatar' when no variable is declared
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\OpenGL.cpp(325,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\OpenGL.cpp(326,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\OpenGL.cpp(330,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\OpenGL.cpp(331,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\OpenGL.cpp(332,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\OpenGL.cpp(333,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Globals.cpp
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\Globals.h(24,2): warning C4091: 'typedef ': ignored on left of 's_Avatar' when no variable is declared
+  ICP_cvico.cpp
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\Globals.h(24,2): warning C4091: 'typedef ': ignored on left of 's_Avatar' when no variable is declared
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\ICP_cvico.cpp(60,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\ICP_cvico.cpp(64,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\ICP_cvico.cpp(65,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\ICP_cvico.cpp(66,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\ICP_cvico.cpp(67,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\ICP_cvico.cpp(164,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\ICP_cvico.cpp(245,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\ICP_cvico.cpp(264,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SkyBox.cpp
+  texture.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 625 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ICP_cvico.vcxproj -> C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\x64\Release\ICP_cvico.exe

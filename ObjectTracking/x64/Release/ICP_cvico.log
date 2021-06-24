@@ -1,0 +1,8 @@
+﻿  MovingImage.cpp
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\ObjectTracking\MovingImage.cpp(27,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  3 of 402 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ICP_cvico.vcxproj -> C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\ObjectTracking\x64\Release\ICP_cvico.exe

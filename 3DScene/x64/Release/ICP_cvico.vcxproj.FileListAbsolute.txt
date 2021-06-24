@@ -1,0 +1,9 @@
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv01\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv02\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv03\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv04\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv07\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv08\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv09\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\cv\cv11\ICP_cvico\x64\Release\ICP_cvico.exe
+C:\Users\Pavel Glos\Documents\2020-2021\ZS\ICP\semestralka\3DScene\x64\Release\ICP_cvico.exe
